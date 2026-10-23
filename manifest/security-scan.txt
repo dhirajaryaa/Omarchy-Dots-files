@@ -1,0 +1,8 @@
+Security scan of backed-up files (file names only; values are not printed)
+Snapshot: 2026-10-23T10:12:15+05:30
+
+Potential matches (review before publishing):
+/tmp/opencode/snapshot4/config/omarchy/plugins/stappmus.activity-monitor/activity-sampler.cpp
+/tmp/opencode/snapshot4/config/omarchy/plugins/stappmus.activity-monitor/README.md
+/tmp/opencode/snapshot4/config/omarchy/plugins/stappmus.activity-monitor/test/activity-test.sh
+/tmp/opencode/snapshot4/config/omarchy/plugins/stappmus.activity-monitor/test/activity-details-test.sh

@@ -1,0 +1,11 @@
+source	backup_path
+/home/dhirajarya/.config/hypr	config/hypr
+/home/dhirajarya/.config/omarchy/backgrounds/solitude	config/omarchy/backgrounds/solitude
+/home/dhirajarya/.config/omarchy/branding	config/omarchy/branding
+/home/dhirajarya/.config/omarchy/extensions	config/omarchy/extensions
+/home/dhirajarya/.config/omarchy/hooks/theme-set.d/omazed	config/omarchy/hooks/theme-set.d/omazed
+/home/dhirajarya/.config/omarchy/plugins/stappmus.activity-monitor	config/omarchy/plugins/stappmus.activity-monitor
+/home/dhirajarya/.config/omarchy/shell.json	config/omarchy/shell.json
+/home/dhirajarya/.config/omarchy/shell.toml	config/omarchy/shell.toml
+/home/dhirajarya/.config/omarchy/themes/aether	config/omarchy/themes/aether
+/home/dhirajarya/.config/omarchy/themes/snow_black	config/omarchy/themes/snow_black

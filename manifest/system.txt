@@ -1,0 +1,14 @@
+snapshot_date=2026-10-23T10:12:12+05:30
+hostname=lapi
+user=dhirajarya
+home=/home/dhirajarya
+kernel=7.2.8-9-omarchy
+omarchy_version=4.0.6-1
+omarchy_package=omarchy 4.0.6-1
+omarchy_path=/usr/share/omarchy
+os_release=Omarchy
+hyprland=hyprland 0.56.2-4
+quickshell=quickshell 0.3.2.r7.g2b4501a-1
+current_theme=solitude
+current_background=/home/dhirajarya/.config/omarchy/backgrounds/solitude/14.jpg
+wallpapers_included=yes

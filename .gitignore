@@ -1,0 +1,75 @@
+# Secrets and authentication material — never commit
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+id_ecdsa*
+known_hosts
+authorized_keys
+.ssh/
+.gnupg/
+.pki/
+config/gh/
+home/.ssh/
+
+# Application state that may contain tokens
+config/opencode/
+config/Code/
+config/Cursor/
+config/Claude/
+config/BraveSoftware/
+config/google-chrome/
+config/google-chrome-beta/
+config/google-chrome-unstable/
+config/chromium/
+config/obsidian/
+config/obs-studio/
+config/qBittorrent/
+config/1Password/
+config/Bitwarden/
+
+# Personal home-directory files (excluded by request)
+home/
+.bashrc
+.bash_profile
+.XCompose
+.bash_history
+.fonts/
+.local/
+
+# Caches, temporary files, generated artifacts
+.cache/
+.local/share/
+.local/state/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Stale tool backups and stock samples
+*.lacquer-backup-*
+*.bak.*
+*.sample
+
+# Local restore backups and archives
+restore-backup/
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.7z
+
+# Editor/OS metadata
+.idea/
+.vscode/
+.direnv/
+.envrc

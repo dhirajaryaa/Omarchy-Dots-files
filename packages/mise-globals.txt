@@ -1,0 +1,6 @@
+claude          2.1.308  ~/.config/mise/config.toml  latest
+codex           0.163.0  ~/.config/mise/config.toml  latest
+gh              2.103.0  ~/.config/mise/config.toml  latest
+node            26.8.1   ~/.config/mise/config.toml  26.8.1
+npm:playwright  1.64.1   ~/.config/mise/config.toml  latest
+opencode        2.1.2    ~/.config/mise/config.toml  latest
