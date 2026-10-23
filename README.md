@@ -27,7 +27,9 @@ Only `~/.config/hypr` and `~/.config/omarchy` are backed up:
 - **Excluded:** all other app configs, home files, SSH/GPG keys, GitHub auth, browser
   data, caches, plugin/theme `.git` packs, and the plugin's sudoers rule.
 
-## My keybindings
+## Keybindings
+
+### My custom bindings
 
 | Shortcut | Action |
 | --- | --- |
@@ -40,8 +42,38 @@ Only `~/.config/hypr` and `~/.config/omarchy` are backed up:
 | `SUPER + SHIFT + G` | GitHub |
 | `SUPER + SHIFT + L` | LinkedIn |
 
-Defined in `config/hypr/bindings.lua`. All **227** active bindings are listed in
-[`KEYBINDINGS.md`](KEYBINDINGS.md) and `manifest/keybindings.txt`.
+### Useful Omarchy defaults
+
+Keys already overridden above are intentionally not repeated here.
+
+| Shortcut | Action |
+| --- | --- |
+| `SUPER + SPACE` | Omarchy menu |
+| `SUPER + ALT + SPACE` | Apps menu |
+| `SUPER + K` | Keybindings |
+| `SUPER + RETURN` | Terminal |
+| `SUPER + SHIFT + RETURN` | Browser |
+| `SUPER + SHIFT + ALT + B` | Browser (private) |
+| `SUPER + SHIFT + F` | File manager |
+| `SUPER + SHIFT + ALT + F` | File manager (cwd) |
+| `SUPER + SHIFT + O` | Obsidian |
+| `SUPER + SHIFT + N` | Editor |
+| `SUPER + SHIFT + CTRL + A` | Agent |
+| `SUPER + ALT + RETURN` | Tmux |
+| `SUPER + CTRL + RETURN` | Herdr |
+| `SUPER + CTRL + V` | Clipboard manager |
+| `SUPER + CTRL + E` | Emojis |
+| `SUPER + CTRL + C` | Capture menu |
+| `PRINT` | Screenshot |
+| `ALT + PRINT` | Screenrecording |
+| `SUPER + CTRL + PRINT` | Extract text (OCR) from screenshot |
+| `SUPER + W` | Close window |
+| `SUPER + F` | Full screen |
+| `SUPER + CTRL + L` | Lock system |
+| `SUPER + ESCAPE` | System menu |
+
+Custom bindings live in `config/hypr/bindings.lua`. The full raw export of all 227
+bindings is in `manifest/keybindings.txt`.
 
 ## Restore
 
